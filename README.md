@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm Farrell Ivander Daviano Siwy, a passionate Full Stack 
 
 - 🧠 Build AI-powered platforms for real-time media monitoring and sentiment analysis  
 - 🌐 Develop full-stack web applications using React.js, Express.js, Spring Boot, and Firebase  
-- ⚙️ Architect backend systems with Go, Python, and Java  
+- ⚙️ Architect backend systems with Go, Python, and .NET  
 - 📊 Create data-driven insights with NLP, sentiment analysis, and predictive modeling  
 - ☁️ Deploy solutions on GCP, AWS, and containerized environments using Docker & Kubernetes  
 
@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm Farrell Ivander Daviano Siwy, a passionate Full Stack 
 `React.js` | `Express.js` | `Spring Boot` | `Firebase`  
 `Docker` | `Kubernetes` | `GCP` | `AWS` | `Git`  
 `NLP` | `OpenAI API` | `Data Mining` | `ETL` | `NoSQL`  
-`Linux` | `Windows` | `macOS`
+`Linux` | `Windows` | `macOS` | `.NET`
 
 ---
 
